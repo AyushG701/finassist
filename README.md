@@ -43,3 +43,6 @@ step 1 : first installed the clerk for the authentication and to not get the nam
 step 2 : Install prisma and prisma client with postgres as database
 
 step 3 : we are using the neon serverless postgres which has the free version too
+// for prisma studio
+
+npx prisma studio
